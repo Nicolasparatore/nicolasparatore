@@ -13,7 +13,10 @@ Python- It'll also give me a chance to understand HTML,CSS and JS.
 - 👯 I’m looking to collaborate on Open source projects built Python
 
 - 🤔 I’m looking for help with I am always willing to meet people, to be able to say hello in any aspect of time. 
-- 💬 Ask me about ...
+
+- 💬 Ask me about 
+You can ask me about web development 
+and design 
 
 - 📫 How to reach me: nicolas.paratore@gmail.com
 
